@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "bi bi-grid",
+    "link": "/"
+  },
+  {
+    "title": "Components",
+    "icon": "bi bi-menu-button-wide",
+    "subItems": [{ "title": "Alerts", "link": "/" }]
+  },
+  {
+    "title": "Forms",
+    "icon": "bi bi-journal-text",
+    "subItems": [{ "title": "Form Elements", "link": "/" }]
+  },
+  {
+    "title": "Tables",
+    "icon": "bi bi-layout-text-window-reverse",
+    "subItems": [{ "title": "General Tables", "link": "/" }]
+  },
+  {
+    "title": "Charts",
+    "icon": "bi bi-bar-chart",
+    "subItems": [{ "title": "Chart.js", "link": "/" }]
+  },
+  {
+    "title": "Icons",
+    "icon": "bi bi-gem",
+    "subItems": [{ "title": "Bootstrap Icons", "link": "/" }]
+  }
+]

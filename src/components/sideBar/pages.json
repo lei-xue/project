@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Profile",
+    "icon": "bi bi-person",
+    "link": "/"
+  },
+  {
+    "title": "F.A.Q",
+    "icon": "bi bi-question-circle",
+    "link": "/"
+  },
+  {
+    "title": "Contact",
+    "icon": "bi bi-envelope",
+    "link": "/"
+  },
+  {
+    "title": "Register",
+    "icon": "bi bi-card-list",
+    "link": "/"
+  },
+  {
+    "title": "Login",
+    "icon": "bi bi-box-arrow-in-right",
+    "link": "/"
+  },
+  {
+    "title": "Error 404",
+    "icon": "bi bi-dash-circle",
+    "link": "/"
+  },
+  {
+    "title": "Blank",
+    "icon": "bi bi-file-earmark",
+    "link": "/"
+  }
+]
